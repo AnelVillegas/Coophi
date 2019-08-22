@@ -1,0 +1,53 @@
+
+.navabar{
+  height:105px;
+}
+
+
+
+.rectangle {
+  display:inline-block;
+  width: 25%;
+  height: 600px;
+  border: solid 1px black;
+  margin-left:10px;
+  margin-top:10px;
+  
+}
+
+.rectangle2{
+  display:inline-block;
+  width: 65%;
+  margin-top:30px;
+  height: 600px;
+ border: solid 1px black; 
+ padding-right: 0%;
+ margin-left:20px;
+}
+
+.form{
+  margin-left:20px;
+  margin-right: 20px;
+}
+
+
+#add{
+  background:lightgray;
+  margin-left: 10px;
+}
+
+.newForm{
+  margin-top:"10px"
+}
+
+.btnCancel{
+margin-left:30px;
+margin-top: 10px
+}
+
+.btnCreate{
+  margin-left:40px;
+  margin-top:10px
+}
+
+
