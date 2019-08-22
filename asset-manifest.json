@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Coophi/static/css/main.2cce8147.chunk.css",
-    "main.js": "/Coophi/static/js/main.6d28d998.chunk.js",
-    "main.js.map": "/Coophi/static/js/main.6d28d998.chunk.js.map",
+    "main.css": "/Coophi/static/css/main.5f1bbace.chunk.css",
+    "main.js": "/Coophi/static/js/main.f985556b.chunk.js",
+    "main.js.map": "/Coophi/static/js/main.f985556b.chunk.js.map",
     "runtime~main.js": "/Coophi/static/js/runtime~main.00e853a2.js",
     "runtime~main.js.map": "/Coophi/static/js/runtime~main.00e853a2.js.map",
-    "static/js/2.640f993e.chunk.js": "/Coophi/static/js/2.640f993e.chunk.js",
-    "static/js/2.640f993e.chunk.js.map": "/Coophi/static/js/2.640f993e.chunk.js.map",
+    "static/js/2.2fc0c839.chunk.js": "/Coophi/static/js/2.2fc0c839.chunk.js",
+    "static/js/2.2fc0c839.chunk.js.map": "/Coophi/static/js/2.2fc0c839.chunk.js.map",
     "index.html": "/Coophi/index.html",
-    "precache-manifest.778014fc2e548d258ec81ab396311c65.js": "/Coophi/precache-manifest.778014fc2e548d258ec81ab396311c65.js",
+    "precache-manifest.e5b0a30c3e776ca3a6f8ac4930235a9a.js": "/Coophi/precache-manifest.e5b0a30c3e776ca3a6f8ac4930235a9a.js",
     "service-worker.js": "/Coophi/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/Coophi/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/Coophi/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5f1bbace.chunk.css.map": "/Coophi/static/css/main.5f1bbace.chunk.css.map"
   }
 }
